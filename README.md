@@ -1,7 +1,7 @@
 # Spring-Transaction-Management-Example-Using-Spring-Boot
 Spring Transaction Management Example Using Spring Boot from scratch.
 
-https://www.netsurfingzone.com/spring/spring-transaction-management-example-using-spring-boot/
+https://www.javatute.com/spring/spring-transaction-management-example-using-spring-boot/
 
 This tutorial covers below points.
 
